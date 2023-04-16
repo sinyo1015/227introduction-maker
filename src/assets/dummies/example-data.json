@@ -1,0 +1,17 @@
+{
+    "image": "path/to/your/image",
+    "alt": "",
+    "lang": "en",
+    "manipulation_data": [
+        {
+            "type": "square",
+            "top_x": 0.0,
+            "top_y": 0.0,
+            "bottom_x": 0.0,
+            "bottom_y": 0.0,
+            "label": "Name",
+            "max_char": 50,
+            "initial_font_size": 18
+        }
+    ]
+}
